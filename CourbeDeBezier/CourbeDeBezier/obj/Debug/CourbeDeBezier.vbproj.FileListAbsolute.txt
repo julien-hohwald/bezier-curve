@@ -1,0 +1,50 @@
+U:\EII_2A\Prog_Visual_Basic_DotNet\TP_TEST_courbe de bézier\CourbeDeBezier\CourbeDeBezier\bin\Debug\CourbeDeBezier.exe.config
+U:\EII_2A\Prog_Visual_Basic_DotNet\TP_TEST_courbe de bézier\CourbeDeBezier\CourbeDeBezier\bin\Debug\CourbeDeBezier.exe
+U:\EII_2A\Prog_Visual_Basic_DotNet\TP_TEST_courbe de bézier\CourbeDeBezier\CourbeDeBezier\bin\Debug\CourbeDeBezier.pdb
+U:\EII_2A\Prog_Visual_Basic_DotNet\TP_TEST_courbe de bézier\CourbeDeBezier\CourbeDeBezier\bin\Debug\CourbeDeBezier.xml
+U:\EII_2A\Prog_Visual_Basic_DotNet\TP_TEST_courbe de bézier\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.vbproj.AssemblyReference.cache
+U:\EII_2A\Prog_Visual_Basic_DotNet\TP_TEST_courbe de bézier\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.vbproj.SuggestedBindingRedirects.cache
+U:\EII_2A\Prog_Visual_Basic_DotNet\TP_TEST_courbe de bézier\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.Form1.resources
+U:\EII_2A\Prog_Visual_Basic_DotNet\TP_TEST_courbe de bézier\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.Resources.resources
+U:\EII_2A\Prog_Visual_Basic_DotNet\TP_TEST_courbe de bézier\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.vbproj.GenerateResource.cache
+U:\EII_2A\Prog_Visual_Basic_DotNet\TP_TEST_courbe de bézier\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.vbproj.CoreCompileInputs.cache
+U:\EII_2A\Prog_Visual_Basic_DotNet\TP_TEST_courbe de bézier\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.exe
+U:\EII_2A\Prog_Visual_Basic_DotNet\TP_TEST_courbe de bézier\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.xml
+U:\EII_2A\Prog_Visual_Basic_DotNet\TP_TEST_courbe de bézier\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.pdb
+U:\EII 2A\VB\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.vbproj.AssemblyReference.cache
+U:\EII 2A\VB\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.vbproj.SuggestedBindingRedirects.cache
+U:\EII 2A\VB\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.Form1.resources
+U:\EII 2A\VB\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.Resources.resources
+U:\EII 2A\VB\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.vbproj.GenerateResource.cache
+U:\EII 2A\VB\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.vbproj.CoreCompileInputs.cache
+U:\EII 2A\VB\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.exe
+U:\EII 2A\VB\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.xml
+U:\EII 2A\VB\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.pdb
+U:\EII 2A\VB\CourbeDeBezier\CourbeDeBezier\bin\Debug\CourbeDeBezier.exe.config
+U:\EII 2A\VB\CourbeDeBezier\CourbeDeBezier\bin\Debug\CourbeDeBezier.exe
+U:\EII 2A\VB\CourbeDeBezier\CourbeDeBezier\bin\Debug\CourbeDeBezier.pdb
+U:\EII 2A\VB\CourbeDeBezier\CourbeDeBezier\bin\Debug\CourbeDeBezier.xml
+C:\Users\114112\OneDrive - Sidel\Desktop\VB_BEZIER FIN\Julien\CourbeDeBezier\CourbeDeBezier\bin\Debug\CourbeDeBezier.exe.config
+C:\Users\114112\OneDrive - Sidel\Desktop\VB_BEZIER FIN\Julien\CourbeDeBezier\CourbeDeBezier\bin\Debug\CourbeDeBezier.exe
+C:\Users\114112\OneDrive - Sidel\Desktop\VB_BEZIER FIN\Julien\CourbeDeBezier\CourbeDeBezier\bin\Debug\CourbeDeBezier.pdb
+C:\Users\114112\OneDrive - Sidel\Desktop\VB_BEZIER FIN\Julien\CourbeDeBezier\CourbeDeBezier\bin\Debug\CourbeDeBezier.xml
+C:\Users\114112\OneDrive - Sidel\Desktop\VB_BEZIER FIN\Julien\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.vbproj.AssemblyReference.cache
+C:\Users\114112\OneDrive - Sidel\Desktop\VB_BEZIER FIN\Julien\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.Form1.resources
+C:\Users\114112\OneDrive - Sidel\Desktop\VB_BEZIER FIN\Julien\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.Resources.resources
+C:\Users\114112\OneDrive - Sidel\Desktop\VB_BEZIER FIN\Julien\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.vbproj.GenerateResource.cache
+C:\Users\114112\OneDrive - Sidel\Desktop\VB_BEZIER FIN\Julien\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.vbproj.CoreCompileInputs.cache
+C:\Users\114112\OneDrive - Sidel\Desktop\VB_BEZIER FIN\Julien\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.exe
+C:\Users\114112\OneDrive - Sidel\Desktop\VB_BEZIER FIN\Julien\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.xml
+C:\Users\114112\OneDrive - Sidel\Desktop\VB_BEZIER FIN\Julien\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.pdb
+C:\Users\114112\OneDrive - Sidel\Desktop\GDrive\FIP EII\Cours\2A\VBnet\VB_BEZIER FIN\Julien\CourbeDeBezier\CourbeDeBezier\bin\Debug\CourbeDeBezier.exe.config
+C:\Users\114112\OneDrive - Sidel\Desktop\GDrive\FIP EII\Cours\2A\VBnet\VB_BEZIER FIN\Julien\CourbeDeBezier\CourbeDeBezier\bin\Debug\CourbeDeBezier.exe
+C:\Users\114112\OneDrive - Sidel\Desktop\GDrive\FIP EII\Cours\2A\VBnet\VB_BEZIER FIN\Julien\CourbeDeBezier\CourbeDeBezier\bin\Debug\CourbeDeBezier.pdb
+C:\Users\114112\OneDrive - Sidel\Desktop\GDrive\FIP EII\Cours\2A\VBnet\VB_BEZIER FIN\Julien\CourbeDeBezier\CourbeDeBezier\bin\Debug\CourbeDeBezier.xml
+C:\Users\114112\OneDrive - Sidel\Desktop\GDrive\FIP EII\Cours\2A\VBnet\VB_BEZIER FIN\Julien\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.vbproj.AssemblyReference.cache
+C:\Users\114112\OneDrive - Sidel\Desktop\GDrive\FIP EII\Cours\2A\VBnet\VB_BEZIER FIN\Julien\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.Form1.resources
+C:\Users\114112\OneDrive - Sidel\Desktop\GDrive\FIP EII\Cours\2A\VBnet\VB_BEZIER FIN\Julien\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.Resources.resources
+C:\Users\114112\OneDrive - Sidel\Desktop\GDrive\FIP EII\Cours\2A\VBnet\VB_BEZIER FIN\Julien\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.vbproj.GenerateResource.cache
+C:\Users\114112\OneDrive - Sidel\Desktop\GDrive\FIP EII\Cours\2A\VBnet\VB_BEZIER FIN\Julien\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.vbproj.CoreCompileInputs.cache
+C:\Users\114112\OneDrive - Sidel\Desktop\GDrive\FIP EII\Cours\2A\VBnet\VB_BEZIER FIN\Julien\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.exe
+C:\Users\114112\OneDrive - Sidel\Desktop\GDrive\FIP EII\Cours\2A\VBnet\VB_BEZIER FIN\Julien\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.xml
+C:\Users\114112\OneDrive - Sidel\Desktop\GDrive\FIP EII\Cours\2A\VBnet\VB_BEZIER FIN\Julien\CourbeDeBezier\CourbeDeBezier\obj\Debug\CourbeDeBezier.pdb
